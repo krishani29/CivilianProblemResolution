@@ -1,0 +1,15 @@
+
+h1{
+    color: maroon;
+    font-family: 'monotype corsiva';
+}
+a:hover{
+    
+        background-color: skyblue;
+        border-radius: 10px;
+        transform: scale(1.09);
+
+}
+li{
+    padding: 5px;
+}
